@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1082037584609",
+    "project_id": "ktrack-9d784",
+    "storage_bucket": "ktrack-9d784.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082037584609:android:aa5483bc22ad29d6b42da0",
+        "android_client_info": {
+          "package_name": "com.omk.ktrack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmSyy1pl3RnTXJX568GpMbBLK0Ir3oe5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
